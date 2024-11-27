@@ -14,6 +14,14 @@ BSc. Biomedical Engineering, Specialization in Data Science and Artificial Intel
 Study abroad coursework in Medical Imaging, Artificial Intelligence and Protontherapy.
 
 ## Experience
+
+**Data Analyst**
+Christus Center of Excellence and Innovation
+- Developed multiple self-service tools for service line manager processes.
+- Built a RAG Chatbot application to help pre and post operation patients in UC Chile.
+- Automated key analytics processes increasing efficiency and accuracy of goal reports.
+
+  
 **Neuroengineering Researcher**
 IUCRC BRAIN Tec de Monterry
  - Developed and implemented real-time emotion classification algorithms with python using EEG signals and other
